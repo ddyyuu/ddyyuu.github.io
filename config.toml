@@ -1,0 +1,5 @@
+#config/config.toml
+
+baseURL = "https://ddyyuu.github.io" #未设置阿里云托管之前应该是 "https://用户名.github.io"
+title = "Calvin Haynes's Blog"
+theme = "zzo"
